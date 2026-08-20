@@ -21,6 +21,11 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/compass.png
 tags:
+  - Real-Estate
+  - Brokerage
+  - PropTech
+  - Fortune 500
+tags_raw:
   - Real Estate
   - Brokerage
   - PropTech
