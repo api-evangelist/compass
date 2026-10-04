@@ -29,7 +29,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/compass.png
 tags:
-- Real-Estate
+- Real Estate
 - Brokerage
 - PropTech
 - Fortune 500
@@ -38,6 +38,7 @@ tags_raw:
 - Brokerage
 - PropTech
 - Fortune 500
+- Real-Estate
 url: https://raw.githubusercontent.com/api-evangelist/compass/refs/heads/main/apis.yml
 created: '2026-05-04'
 modified: '2026-05-04'
