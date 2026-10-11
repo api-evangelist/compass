@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "compass",
+    "captured_at": "2026-10-11T184517",
+    "source_url": "https://www.compass.com",
+    "source_type": "Website",
+    "file": "compass-2026-10-11T184517.png",
+    "bytes": 846549,
+    "capture": "playwright-local"
+  }
+]
